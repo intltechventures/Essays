@@ -5,7 +5,7 @@
 - [A Meditation on the Joy of Information Architecture Design](A_Meditation_on_the_Joy_of_Information_Architecture_Design.pdf)
 
 ## 2018
-- [10 Lessons from Sailing, for IT](10_Lessons from_Sailing_ for_IT.pdf)
+- [10 Lessons from Sailing, for IT](10_Lessons_from_Sailing_for_IT.pdf)
 
 ## 2016
 - [Are You Serious About Innovating?](Are_You_Serious_About_Innovating.pdf)
