@@ -3,8 +3,8 @@
 ## 2019
 - [A Mediation on an Ineffable Quality](A_Meditation_on_an_Ineffable_Quality.pdf)
 - [A Meditation on the Joy of Information Architecture Design](A_Meditation_on_the_Joy_of_Information_Architecture_Design.pdf)
-- [Essay - Repeatable Architecture Processes](Esssay_Repeatable_Architecture_Processes.pdf)
-- [Essay - Restoring EA Value](Esssay_Restoring_EA_Value.pdf)
+- [Repeatable Architecture Processes](Repeatable_Architecture_Processes.pdf)
+- [Restoring EA Value](Restoring_EA_Value.pdf)
 
 
 ## 2018
