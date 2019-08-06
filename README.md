@@ -5,7 +5,7 @@
 - [A Meditation on the Joy of Information Architecture Design](A_Meditation_on_the_Joy_of_Information_Architecture_Design.pdf)
 - [Repeatable Architecture Processes](Repeatable_Architecture_Processes.pdf)
 - [Restoring EA Value](Restoring_EA_Value.pdf)
-
+- [Suggested Practices for Highly Effective EA Teams](Suggested_Practices_for_Highly_Effective_EA_Teams.pdf)
 
 ## 2018
 - [10 Lessons from Sailing, for IT](10_Lessons_from_Sailing_for_IT.pdf)
