@@ -6,6 +6,7 @@
 - [Repeatable Architecture Processes](Repeatable_Architecture_Processes.pdf)
 - [Restoring EA Value](Restoring_EA_Value.pdf)
 - [Suggested Practices for Highly Effective EA Teams](Suggested_Practices_for_Highly_Effective_EA_Teams.pdf)
+- [Leadership Lessons Learned](Leadership_Lessons_Learned.pdf)
 
 ## 2018
 - [10 Lessons from Sailing, for IT](10_Lessons_from_Sailing_for_IT.pdf)
